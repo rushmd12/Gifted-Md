@@ -75,14 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/mouricedevs/Gifted-Md.git"
+      "url": "git+https://github.com/an-author/Gifted-Md.git"
    },
    "bugs": {
-      "url": "https://github.com/mouricedevs/Gifted-Md/issues"
+      "url": "https://github.com/an-author/Gifted-Md/issues"
    },
-   "homepage": "https://github.com/mouricedevs/Gifted-Md#readme"
+   "homepage": "https://github.com/an-author/Gifted-Md#readme"
 }
-
-
-
-
