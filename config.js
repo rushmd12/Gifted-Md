@@ -1,5 +1,3 @@
-
-
 //GIFTED-MD//
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
