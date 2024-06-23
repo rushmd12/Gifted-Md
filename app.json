@@ -38,7 +38,7 @@
         "SUDO_NUMBERS": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254762016957"
+        "value": "2547110853827"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -114,7 +114,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254762016957,254110853827,254728746852,255655147353,254728782591"
+        "value": "254110853827"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -135,7 +135,7 @@
         "required": false
       }
     },
-    "addons": [{ "plan": "heroku-postgresql:essential-0" }],
+    "addons": [{ "plan": "heroku-postgresql:essential-1" }],
     "buildpacks": [
       { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
       { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
